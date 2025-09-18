@@ -1,3 +1,3 @@
-module example.com/m
+module github.com/EbatteSratte/TcpChat
 
 go 1.23
